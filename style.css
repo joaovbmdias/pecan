@@ -224,8 +224,8 @@
   box-shadow: var(--pecan-shadow-inner);
 }
 
-/* slack notification -- 4th to left */
-.pecanslack {
+/* mail notification -- 4th to left */
+.pecanmail {
   font: var(--pecan-font-size) var(--pecan-font);
   font-style: var(--pecan-font-style);
   color: var(--pecan-fg-pecanbattery);
