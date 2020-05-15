@@ -43,7 +43,7 @@
   --pecan-xanthia-opacity: 1;
   --pecan-xanthia-image-opacity: 1;
   /* alignment */
-  --pecan-alignment-top: 0;
+  --pecan-alignment-top: -5px;
   --pecan-alignment-right: 0;
   --pecan-alignment-bottom: auto;
   --pecan-alignment-left: 0;
@@ -74,7 +74,7 @@
   --pecan-xanthia-shadow: var(--pecan-shadow-inner);
   --pecan-xanthia-image-shadow: var(--pecan-shadow-inner);
   /* border */
-  --pecan-border: 3px;
+  --pecan-border: 30px;
   --pecan-border-radius: 0px;
   --pecan-border-radius-inner: 3px;
   --pecan-xanthia-border-radius-left: var(--pecan-border-radius-inner);
